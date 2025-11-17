@@ -1,0 +1,26 @@
+{
+  "name": "complete_backed",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/Arun-DEV-prog/complete_backend#readme",
+  "bugs": {
+    "url": "https://github.com/Arun-DEV-prog/complete_backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arun-DEV-prog/complete_backend.git"
+  },
+  "license": "ISC",
+  "author": "arun",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
